@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faruk KARAASLAN</h1>
-<h3 align="center">I live in Ankara/Turkey. I develop web applications with PHP Laravel framework and cross platform mobile applications with Flutter. I am taking a course to make web applications with Asp.Net Core. I am learning Angular and React to become a Full Stack developer.</h3>
+<h3 align="left">I live in Ankara/Turkey. I develop web applications with PHP Laravel framework and cross platform mobile applications with Flutter. I am taking a course to make web applications with Asp.Net Core. I am learning Angular and React to become a Full Stack developer.</h3>
 
 - 🌱 I’m currently learning **react/angular/Asp.net**
 
