@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Faruk KARAASLAN</h1>
-<h3 align="left">I live in Ankara/Turkey. I develop web applications with PHP Laravel framework and cross platform mobile applications with Flutter. I am taking a course to make web applications with Asp.Net Core. I am learning Angular and React to become a Full Stack developer.</h3>
+<h3 align="center">I live in Ankara/Turkey. I develop web applications with PHP Laravel framework and cross platform mobile applications with Flutter. I am taking a course to make web applications with Asp.Net Core. I am learning Angular and React to become a Full Stack developer.</h3>
 
 - 🌱 I’m currently learning **react/angular/Asp.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/farukkaraaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="farukkaraaslan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/faruk-karaaslan-361906172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faruk-karaaslan-361906172" height="30" width="40" /></a>
+<a href="https://fb.com/faruk.karaaslan.55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faruk.karaaslan.55" height="30" width="40" /></a>
+<a href="https://instagram.com/faruk_k.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faruk_k.03" height="30" width="40" /></a>
+<a href="https://dribbble.com/farukkaraaslan55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="farukkaraaslan55" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/farukkaraaslan1615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farukkaraaslan1615" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
